@@ -147,8 +147,10 @@
                         </constraints>
                     </view>
                     <connections>
+                        <outlet property="bountyLabelCenterX" destination="Ye5-GD-Ghu" id="Hsv-2Q-XZA"/>
                         <outlet property="bountyLable" destination="dgE-Sn-wf8" id="7Al-xp-AIu"/>
                         <outlet property="imgView" destination="Icb-MK-wrH" id="iDL-Bb-8fz"/>
+                        <outlet property="nameLabelCenterX" destination="7gV-EC-vfA" id="ZiI-mY-3O3"/>
                         <outlet property="nameLable" destination="2wa-tI-7x3" id="T4w-TU-1e9"/>
                     </connections>
                 </viewController>
